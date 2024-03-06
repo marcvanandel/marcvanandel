@@ -1,0 +1,57 @@
+{
+    "basics": {
+      "name": "Marc van Andel",
+      "label": "Developer | Solution Architect | Tech Researcher",
+      "image": "",
+      "email": "marc@consulmation.nl",
+      "url": "https://marcvanandel.nl",
+      "summary": "I'm loving tech. I've always been interested in tech of all sorts. I do believe in people and 'the greater good'. That's why I'd like to contribute to society by improving the government. Especially the <i>digital</i> government. I'm employed at Kadaster, the Dutch Land and Mapping Agency for a while now and I'm working on innovation and emerging technologies to improve Kadaster and the government as a whole. Besides that I do have my own consultancy company by which I can share my knowledge and expertise outside government boundaries.",
+      "profiles": [{
+        "network": "Mastodon",
+        "username": "@marcva@mastodon.nl",
+        "url": "https://mastodon.nl/@marcva"
+      }]
+    },
+    "work": [{
+      "name": "Kadaster",
+      "position": "Solution Architect | Tech Researcher",
+      "url": "https://kadaster.nl",
+      "startDate": "2007",
+      "summary": "Description…",
+      "highlights": [
+        "Developers Community Lead",
+        "Software Architect of Core System for Objects and Rights",
+        "SensRNet design and MVP",
+        "Solid Quest Research",
+        "Lock-Unlock Research",
+        "IBDS/FDS team member"
+      ]
+    },
+    {
+      "name": "Consulmation",
+      "position": "Independent Consultant",
+      "url": "https://consulmation.nl",
+      "startDate": "2018",
+      "summary": "The great combination of Consultancy and Automation",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "keywords": [
+        "Java Stack (incl. Scala, Kotlin)",
+        "Containers",
+        "Open Source Software",
+        "Event Sourcing",
+        "Collaboration",
+        "Whiteboard sessions :smile:"
+      ]
+    }]
+  }
